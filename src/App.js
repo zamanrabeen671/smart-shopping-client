@@ -40,6 +40,9 @@ function App() {
             <Route exact path="/">
               <Home />
             </Route>
+            <Route path="*">
+              <h2 style={{textAlign: "center", color: 'red'}}>Not Found , Error 404</h2>
+            </Route>
           </Switch>
         </Router>
       </UserContext.Provider>
