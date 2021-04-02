@@ -12,7 +12,7 @@ const Admin = () => {
         <div className="container mt-5">
             <div className="row">
                 <div className="col-md-4 managing-area">
-                    <h1 className="brand-name">Smart Shopping</h1>
+                    <h1 className="brand-name">SMART SHOPPING</h1>
                     <button className="manage-button" onClick={() => {
                         setManager(true);
                         setAddProduct(false);
