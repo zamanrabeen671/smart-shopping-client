@@ -1,0 +1,8 @@
+.App{
+  background: url(../src/image/754632.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  padding-bottom: 300px;
+}

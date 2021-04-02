@@ -1,0 +1,13 @@
+.side-nav{
+    color: black;
+}
+.side-nav Nav.Link Link{
+    color: black;
+    font-size: 12px;
+}
+.login-btn{
+    padding: 5px 10px;
+    background-color: chartreuse;
+    border-radius: 10px;
+
+}

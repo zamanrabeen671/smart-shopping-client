@@ -1,0 +1,23 @@
+.checkout-container{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 50px;
+}
+.first-block{
+    border:black;
+    color: gray;
+}
+.second-block{
+    margin: 20px 10px;
+    color: black;
+    font-weight: bold;
+}
+.third-block{
+    font-weight: bold;
+}
+.checkout-btn{
+    margin-top: 20px;
+    float: right;
+    
+}

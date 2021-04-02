@@ -1,0 +1,20 @@
+.managing-area{
+    background-color: #0d0725;
+    padding-bottom: 300px;
+}
+.brand-name{
+    text-align: center;
+    color: cornsilk;
+}
+.manage-button{
+    color: cornsilk;
+    text-align: center;
+    border: none;
+    background-color: #0d0725;
+    margin: 0 auto;
+    padding:10px 20px;
+}
+.manage-button:hover{
+    background-color: white;
+    color: darkblue;
+}
